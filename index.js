@@ -1,3 +1,3 @@
-require = require("esm")(module)
-module.exports = require("../app/main.js")
+require = require('esm')(module)
+module.exports = require('./server/main')
 
