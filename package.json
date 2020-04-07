@@ -1,0 +1,15 @@
+{
+  "name": "day-21-challenge",
+  "version": "1.0.0",
+  "description": "Setting up a server that will return a cats array and a dogs array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mjowens@mail.com <Matthew Owens>",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  }
+}
